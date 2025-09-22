@@ -1,0 +1,4 @@
+age = age
+si age >= 18 
+Alors majeur
+sinon mineur
